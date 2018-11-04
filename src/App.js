@@ -5,8 +5,11 @@ import { GlobalStyle } from 'styles/GlobalStyle';
 
 const Title = styled.h1`
 	position: absolute;
-	top: 30px;
-	left: 30px;
+	bottom: 30px;
+	left: 50%;
+	opacity: 0.2;
+	transform: translateX(-50%);
+	font-size: 32px;
 `;
 
 export default function App() {

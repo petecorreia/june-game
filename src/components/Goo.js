@@ -36,22 +36,22 @@ export default function Goo() {
 		<Wrapper>
 			<Ball
 				style={{
-					width: 170,
-					height: 170,
+					width: '8vw',
+					height: '8vw',
 					transform: pos3.interpolate(trans),
 				}}
 			/>
 			<Ball
 				style={{
-					width: 350,
-					height: 350,
+					width: '20vw',
+					height: '20vw',
 					transform: pos2.interpolate(trans),
 				}}
 			/>
 			<Ball
 				style={{
-					width: 200,
-					height: 200,
+					width: '10vw',
+					height: '10vw',
 					transform: pos1.interpolate(trans),
 				}}
 			/>
