@@ -1,4 +1,4 @@
 export const brand = '#deb028';
-export const background = '#fff';
-export const foreground = '#1D1C1C';
+export const background = 'lightblue';
+export const foreground = 'lightcoral';
 export const gray = '#7b7b81';
